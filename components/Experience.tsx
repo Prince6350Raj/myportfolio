@@ -13,7 +13,7 @@ export default function Experience() {
       role: "Python Development Intern",
       company: "Geeta Technical Hub",
       location: "Geeta University",
-      period: "June 2025 - August 2025",
+      period: "June 2024 - August 2024",
       description: "Developed Python applications including e-commerce systems, CRUD operations, and automation tools. Gained hands-on experience in backend development and problem-solving.",
       skills: ["Python", "Backend Development", "Automation", "Problem Solving"],
       color: "from-purple-500 to-pink-500",
